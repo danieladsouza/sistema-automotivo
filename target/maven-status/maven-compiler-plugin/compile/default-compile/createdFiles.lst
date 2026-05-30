@@ -1,0 +1,9 @@
+com\automotivo\sistemaautomotivo\controller\MarcaController.class
+com\automotivo\sistemaautomotivo\repository\VeiculoRepository.class
+com\automotivo\sistemaautomotivo\service\MarcaService.class
+com\automotivo\sistemaautomotivo\entity\Veiculo.class
+com\automotivo\sistemaautomotivo\repository\MarcaRepository.class
+com\automotivo\sistemaautomotivo\SistemaautomotivoApplication.class
+com\automotivo\sistemaautomotivo\controller\VeiculoController.class
+com\automotivo\sistemaautomotivo\entity\Marca.class
+com\automotivo\sistemaautomotivo\service\VeiculoService.class

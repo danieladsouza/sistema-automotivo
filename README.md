@@ -37,7 +37,7 @@ POST /veiculos
   "modelo": "Civic",
   "preco": 120000,
   "status": "Disponível",
-  "marcaId": 1
+  "cor": "branco",
 }
 ```
 

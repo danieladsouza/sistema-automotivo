@@ -38,6 +38,10 @@ POST /veiculos
   "preco": 120000,
   "status": "Disponível",
   "cor": "branco",
+  "ano": 2020,
+  "quilometragem": 12000,
+
+
 }
 ```
 
